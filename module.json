@@ -24,5 +24,7 @@
 				  "system": "wwn",
 				  "module": "those_outside_the_walls_free" 
 				}
-			]
+			],
+	"manifest":"https://github.com/AlexDworman/those_outside_the_walls_free/blob/download/module.json",
+	"download":"https://github.com/AlexDworman/those_outside_the_walls_free/blob/download/those_outside_the_walls_free.zip"
   }
