@@ -1,0 +1,28 @@
+
+{
+	"name": "those_outside_the_walls_free",
+	"title": "Those Outside the Walls - Free Preview",
+	"description": "A compendium of the monsters found in the free preview of Those Outside the Walls",
+	"author": "Alex Dworman",
+	"version": "1.0.0",
+	"minimumCoreVersion": "10",
+	"compatibleCoreVersion":"10",
+	"packs": [
+				{
+				  "name": "RulesAndConditions",
+				  "label": "Those Outside the Walls: Rules and Conditions",
+				  "path": "packs/rules.db",
+				  "entity": "JournalEntry",
+				  "system": "wwn",
+				  "module": "those_outside_the_walls_free" 
+				},
+				{
+				  "name": "Creatures",
+				  "label": "Those Outside the Walls: Creatures",
+				  "path": "packs/creatures.db",
+				  "entity": "Actor",
+				  "system": "wwn",
+				  "module": "those_outside_the_walls_free" 
+				}
+			]
+  }
